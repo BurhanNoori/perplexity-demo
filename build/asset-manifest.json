@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cfebd39.css",
+    "main.js": "/static/js/main.187a57cb.js",
+    "static/js/787.28c5be78.chunk.js": "/static/js/787.28c5be78.chunk.js",
+    "static/media/FKGroteskNeueTrial-Bold.otf": "/static/media/FKGroteskNeueTrial-Bold.332069824f3e64b4b92d.otf",
+    "static/media/perplexity-icon.svg": "/static/media/perplexity-icon.64e78ce68f28f4bbc4d5f9ab1d342766.svg",
+    "static/media/apple.svg": "/static/media/apple.ffcb0a0b180b99035dc09034c66f20ea.svg",
+    "index.html": "/index.html",
+    "static/media/login.svg": "/static/media/login.7f31a7f7e42218c772e81f9f92bb1c2f.svg",
+    "static/media/google.svg": "/static/media/google.f1624094a50a564dfa7701e8de7e29cb.svg",
+    "static/media/home.svg": "/static/media/home.5a12d1487560a85b2c3bdfadda31d4af.svg",
+    "static/media/focus.svg": "/static/media/focus.c22c15601923c2dea0ff78590ac9704e.svg",
+    "static/media/discover.svg": "/static/media/discover.879a2a4a791e12eafe0b81d49818424e.svg",
+    "static/media/library.svg": "/static/media/library.56b006f6bece9379f11ee7406859d1b5.svg",
+    "main.7cfebd39.css.map": "/static/css/main.7cfebd39.css.map",
+    "main.187a57cb.js.map": "/static/js/main.187a57cb.js.map",
+    "787.28c5be78.chunk.js.map": "/static/js/787.28c5be78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfebd39.css",
+    "static/js/main.187a57cb.js"
+  ]
+}
